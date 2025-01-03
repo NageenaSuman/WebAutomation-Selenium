@@ -7,11 +7,9 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.Test;
 
-import javax.print.DocFlavor;
-import java.sql.SQLOutput;
 import java.util.List;
 
-public class Exe_011_03012025 {
+public class Exe_011_03012025_DynamicWebTable {
     @Test
     public void test_xpath_webtables() throws InterruptedException {
         EdgeOptions eo = new EdgeOptions();
