@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.Set;
 
-public class Exe_014_WindowHandles_iFrame {
+public class Exe_014_06012025_WindowHandles_iFrame {
 
     String url = "https://app.vwo.com/#/test/ab/13/heatmaps/1?token=eyJhY2NvdW50X2lkIjo2NjY0MDAsImV4cGVyaW1lbnRfaWQiOjEzLCJjcmVhdGVkX29uIjoxNjcxMjA1MDUwLCJ0eXBlIjoiY2FtcGFpZ24iLCJ2ZXJzaW9uIjoxLCJoYXNoIjoiY2IwNzBiYTc5MDM1MDI2N2QxNTM5MTBhZDE1MGU1YTUiLCJzY29wZSI6IiIsImZybiI6ZmFsc2V9&isHttpsOnly=1";
     WebDriver driver;

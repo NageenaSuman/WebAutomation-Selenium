@@ -4,14 +4,13 @@ import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Exe_015_AdvancedActions_FileUpload_1 {
+public class Exe_015_07012025_AdvancedActions_FileUpload_1 {
 
     String url = "https://www.browserstack.com/users/sign_in";
     WebDriver driver;
